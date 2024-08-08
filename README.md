@@ -16,8 +16,7 @@
 
 ## Presentation
 
-You can watch our presentation on YouTube via the following link:
-[![Watch our presentation](https://www.youtube.com/watch?v=VNhZuid-m0w&feature=youtu.be)
+You can watch our presentation on YouTube via the following link:(https://www.youtube.com/watch?v=VNhZuid-m0w&feature=youtu.be)
 
 ## Arduino Code
 
