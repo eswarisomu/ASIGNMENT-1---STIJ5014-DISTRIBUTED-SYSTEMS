@@ -1,4 +1,4 @@
-# STIJ5014: Distributed Systems
+# STIJ5014: Distributed Systems (Assignment 1)
 
 ### Lecturer
 **Suwannit Chareen Chit a/l Sop Chit**
