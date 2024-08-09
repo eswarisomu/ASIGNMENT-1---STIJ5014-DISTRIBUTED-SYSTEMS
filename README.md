@@ -11,7 +11,7 @@
 | Name                      | Matric Number |
 |---------------------------|---------------|
 | Eswari a/p Somu            | 832067        |
-| Tharisana a/p Ganeson      | 832074        |
+| Tharisana a/p Ganeson      | 832071        |
 | Nurashida Binti Mohd. Desa | 833057        |
 
 ## Presentation
